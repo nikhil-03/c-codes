@@ -12,7 +12,7 @@ void solve()
 {
    int n; cin>>n;
    V ar(n);  ll ans=0,k=1;
-   map<int,int> m;
+   map<ll,ll> m;
    For(n)
    {
       ll a; cin>>a;
